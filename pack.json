@@ -1,0 +1,9 @@
+{
+  "name": "Goldeneye - Watch Music",
+  "description": "Music from the pause menu of Goldeneye 64",
+  "author": "Ced-TheRock",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
